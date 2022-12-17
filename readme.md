@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Abdel-Waheb aka Lakkas</h1>
-- 🔭 I’m currently working on [Libet](https://github.com/Lakkas216/Libet)
+- I’m currently working on [Libet](https://github.com/Lakkas216/Libet)
 
-- 🌱 I’m currently learning **Java**
-
-- 👯 I’m looking to collaborate on [Libet](https://github.com/Lakkas216/Libet)
+- I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lakkas216](https://github.com/Lakkas216)
 
@@ -11,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdel-waheb sakkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdel-waheb sakkal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdel-waheb-sakkal-997638251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdel-waheb sakkal" height="30" width="40" /></a>
 <a href="https://discord.gg/Lakkas216#4083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lakkas216#4083" height="30" width="40" /></a>
 </p>
 
