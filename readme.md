@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdel-Waheb aka Lakkas</h1>
-- I’m currently working on [Libet](https://github.com/Lakkas216/Libet)
+- 🔭 I’m currently working on [Libet](https://github.com/Lakkas216/Libet)
 
-- I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lakkas216](https://github.com/Lakkas216)
 
