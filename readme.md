@@ -5,7 +5,7 @@
 
 -  All of my projects are available at [https://github.com/Lakkas216](https://github.com/Lakkas216)
 
--  How to reach me **sakkalabdelwaheb@gmail.com**
+-  How to reach me **abdel-waheb.sakkal@efrei.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
