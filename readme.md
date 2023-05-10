@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Abdel-Waheb aka Lakkas</h1>
--  I’m currently working on [Libet](https://github.com/Lakkas216/Libet)
+I am a student in computer engineering
 
--  I’m currently learning **Java**
-
--  All of my projects are available at [https://github.com/Lakkas216](https://github.com/Lakkas216)
-
--  How to reach me **abdel-waheb.sakkal@efrei.net**
+You can reach me at **abdel-waheb.sakkal@efrei.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
