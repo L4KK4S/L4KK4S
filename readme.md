@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdel-Waheb aka Lakkas</h1>
-I am a student in computer engineering
+I'm a student in computer engineering
 
 You can reach me at **abdel-waheb.sakkal@efrei.net**
 
