@@ -34,6 +34,5 @@ I'm a student in computer engineering, coding is my passion.
 [abdel-waheb.sakkal@efrei.net](mailto:abdel-waheb.sakkal@efrei.net)
 
 <h3 align="left">Most used Languages</h3>
-                
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4KK4S&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
