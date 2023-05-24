@@ -28,8 +28,8 @@ I'm a student in computer engineering
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/abdel-waheb-sakkal-997638251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdel-waheb sakkal" height="30" width="40" /></a>
-    <a href="https://discord.gg/Lakkas#4083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lakkas#4083" height="30" width="40" /></a>
-    **abdel-waheb.sakkal@efrei.net**
+    <a href="https://discord.gg/L4KK4S#4083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="L4KK4S#4083" height="30" width="40" /></a>
+    <a href="abdel-waheb.sakkal@efrei.net" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/347/347722.png" alt="Lakkas#4083" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Most used Languages</h3>
