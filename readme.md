@@ -35,4 +35,4 @@ I'm a student in computer engineering, coding is my passion.
 
 <h3 align="left">Most used Languages</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4KK4S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4KK4S&layout=compact)]
