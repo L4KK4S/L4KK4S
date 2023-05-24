@@ -21,5 +21,14 @@ You can reach me at **abdel-waheb.sakkal@efrei.net**
 <h3 align="left">Librairies</h3>
 <p align="left">
   <a href="https://www.pygame.org" target="_blank" rel="noreferrer"> <img src="https://www.pygame.org/ftp/pygame-head-party.png" alt="pygame" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+  <a href="https://kivy.org/index.html" target="_blank" rel="noreferrer"> <img src="https://kivy.org/static/images/logo_kivy_white.png" alt="kivy" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Tools</h3>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logo@2x.png" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.gimp.org/images/frontpage/wilber-big.png" alt="gimp" width="40" height="40"/> </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" alt="canva" width="40" height="40"/> </a>
 </p>
