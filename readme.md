@@ -32,3 +32,6 @@ You can reach me at **abdel-waheb.sakkal@efrei.net**
   <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.gimp.org/images/frontpage/wilber-big.png" alt="gimp" width="40" height="40"/> </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" alt="canva" width="40" height="40"/> </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4KK4S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
