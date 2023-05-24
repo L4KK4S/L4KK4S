@@ -35,5 +35,5 @@ You can reach me at **abdel-waheb.sakkal@efrei.net**
 
 <h3 align="left">Most used Languages</h3>
                 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4KK4S&layout=compact&theme=transparent](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4KK4S&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
