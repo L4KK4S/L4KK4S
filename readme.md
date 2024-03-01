@@ -14,7 +14,7 @@ I'm a student in computer engineering, coding is my passion.
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l4kk4stheme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l4kk4s&theme=transparent)
 
 <h3 align="left">Librairies</h3>
 <p align="left">
