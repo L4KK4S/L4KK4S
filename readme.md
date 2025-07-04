@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Abdel-Waheb aka Lakkas</h1>
 I'm a student in computer engineering, coding is my passion.
-https://drive.google.com/drive/folders/1hUHmmuLkx_0FM9blNsOWUS7JrPoOAd7C
 <h3 align="left">Languages</h3> 
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
